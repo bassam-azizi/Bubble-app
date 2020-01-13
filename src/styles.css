@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.board{
+  border: 3px solid blue;
+  border-radius: 8px;
+  background-color: rgba(44, 44, 44, 0.1);
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}

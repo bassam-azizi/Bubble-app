@@ -3,11 +3,19 @@
   text-align: center;
 }
 
-.board{
+.board {
   border: 3px solid blue;
   border-radius: 8px;
   background-color: rgba(44, 44, 44, 0.1);
   width: 400px;
   height: 400px;
   margin: auto;
+}
+
+.bubble {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  border: 4px solid blue;
+  border-radius: 50%;
 }

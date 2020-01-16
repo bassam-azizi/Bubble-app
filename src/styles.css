@@ -25,8 +25,8 @@
 }
 
 .playBtn {
-  position: absolute;
-  left: 200px;
+  position: relative;
+  right: 300px;
   width: 150px;
   padding: 10px;
   font-family: monospace;
@@ -34,3 +34,7 @@
   border-radius: 4px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
+
+/* .a .b {
+  display: inline;
+} */
